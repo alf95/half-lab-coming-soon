@@ -30,8 +30,8 @@ class IndexPage extends React.Component {
           <Particles className="particles" params={particlesOptions} />
             <div className="middle">
               <div className="content">
-                <h1 className="h1">HALFLAB RESEARCH</h1>
-                <h1 className="h1">COMING SOON</h1>
+                <h1 className="h1">HALF LAB RESEARCH</h1>
+                <h2 className="h2">COMING SOON</h2>
                 {/*<Timer />
                 <p>We will be launch soon.</p>*/}
                 {/*<input name="email" type="text" placeholder="email address" />
