@@ -25,7 +25,8 @@
     "format": "prettier --write '**/*.js'",
     "test": "jest",
     "predeploy": "yarn run build",
-    "deploy": "gh-pages -d public"
+    "deploy": "gh-pages -d public",
+    "start": "gatsby develop"
   },
   "devDependencies": {
     "@babel/core": "^7.1.2",
