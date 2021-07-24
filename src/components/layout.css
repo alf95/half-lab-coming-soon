@@ -18,7 +18,7 @@ body, html {
   /* Scale and zoom in the image */
   background-size: cover;
   /* Add position: relative to enable absolutely positioned elements inside the image (place text) */
-  position: relative;
+  /*position: relative;*/
   /* Add a white text color to all elements inside the .bgimg container */
   color: white;
   /* Add a font */
